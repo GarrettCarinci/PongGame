@@ -16,6 +16,8 @@ Player 1 (Left Paddle)
 
 Move Up: W
 Move Down: S
+
+
 Player 2 (Right Paddle)
 
 Move Up: ArrowUp
