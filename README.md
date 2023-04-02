@@ -16,8 +16,6 @@ Player 1 (Left Paddle)
 
 Move Up: W
 Move Down: S
-
-
 Player 2 (Right Paddle)
 
 Move Up: ArrowUp
@@ -31,12 +29,7 @@ The update function handles the ball movement, paddle movement, collision detect
 The draw function is responsible for rendering the game objects on the canvas.
 Keyboard event listeners are used to handle user input for controlling the paddles.
 The gameLoop function is the main game loop that continuously calls update and draw using the requestAnimationFrame function.
-
-
-
 Customization
-
-
 You can customize the game by modifying the following properties in the code:
 
 paddleWidth: The width of the paddles.
